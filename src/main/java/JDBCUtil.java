@@ -1,5 +1,3 @@
-package com.study.jdbc.util;
-
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 
 import javax.sql.DataSource;
